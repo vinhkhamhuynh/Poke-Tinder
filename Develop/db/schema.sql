@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS Poke_Tinderdb;
+
+CREATE DATABASE Poke_Tinderdb;
